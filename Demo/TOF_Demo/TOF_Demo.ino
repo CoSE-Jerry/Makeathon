@@ -4,17 +4,13 @@ unsigned long durationF;
 
 void setup()
 {
-
   pinMode(pinF, INPUT);
   delay(500);
-
 }
 
 void loop()
 {
-
     readDistance();
-
 }
 
 void readDistance()
