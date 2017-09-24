@@ -1,0 +1,1 @@
+pyuic5 ABCD.ui > ../_python/ABCD_UI.py
